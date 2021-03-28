@@ -1,1 +1,1 @@
-# COVID-19-detection-using-CT-images
+# COVID-19-detection in CT-images using Tensorflow
